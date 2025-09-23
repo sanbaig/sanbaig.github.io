@@ -17,13 +17,13 @@ You can find my CV here:[Yanhao Luo's curreiculum Vitae](../assets/Luo Yanhao Re
 
 Education
 ------
-Xiamen University    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Xiamen, Fujian, China
+Xiamen University    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Xiamen, Fujian, China
 
-Master of Physical Electronics	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Sep 2023 – Jun 2026
+Master of Physical Electronics	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Sep 2023 – Jun 2026
 - GPA: 3.54/4.0.
 - Supervisor: Prof. Liao Xinqin
 
-Zhengzhou University	 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Zhengzhou, Henan, China
+Zhengzhou University	 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Zhengzhou, Henan, China
 
 Bachelor of Measurement & Control Technology and Instruments 	  &nbsp;&nbsp;&nbsp;&nbsp;   Sep 2019 – Jun 2023
 - GPA: 3.46/4.0.
@@ -33,15 +33,15 @@ Bachelor of Measurement & Control Technology and Instruments 	  &nbsp;&nbsp;&nbs
 Publications
 ------
 Papers
-- <strong><u>Yanhao Luo<>, et al. High-throughput fabrication of integrated tactile device with in-sensor analysis. <strong><em>Advanced Materials<>. (<strong>Submitted<>) (<strong>First Author<>; JCR Q1; IF: 26.8).
-- Hongyu Chen, <strong><u>Yanhao Luo<strong><u>, et al. Humanoid machine intelligence using bioinspired exteroceptive adaptive learning. <strong><em>Science Robotics<strong><em>. (<strong>Submitted<strong>) (<strong>Second Author<strong>; JCR Q1; IF: 27.5).
-- Zijian Huang, Hongyu Chen, <strong><u>Yanhao Luo<strong><u>, et al. In-Device Topological Encoding for Intelligent Multimodal Interactions. <strong><em>Advanced Functional Materials<strong><em>, 2025. Doi: 10.1002/adfm.202515750. (<strong>Accepted<strong>) (<strong>Third Author<strong>; JCR Q1; IF: 19.0,).
-- Wansheng Lin, Huasen Wang, Ruize Wangyuan, <strong><u>Yanhao Luo<strong><u>, et al. Dielectrically Modified Polymer and Topologically Optimized Microstructure Enabling In-Sensor Decoupling for Multifunctional Human–Machine Interactions. <strong><em>Advanced Functional Materials<strong><em>, 2025, Doi: 10.1002/adfm.202505912. (<strong>Accepted<strong>) (<strong>Fourth Author<strong>; JCR Q1; IF: 19.0).
-- Shifan Yu, Zhenzhou Ji, Lei Liu, Zijian Huang, <strong><u>Yanhao Luo<strong><u>, et al. A Hyperconformal Dual-Modal Metaskin for Well-Defined and High-Precision Contextual Interactions. <strong><em>Nature Communications<strong><em>. (<strong>Accepted<strong>) (<strong>Fifth Author<strong>; JCR Q1; IF: 15.7)
+- <strong><u>Yanhao Luo</strong></u>, et al. High-throughput fabrication of integrated tactile device with in-sensor analysis. <strong><em>Advanced Materials</strong></u>. (<strong>Submitted</strong>) (<strong>First Author</strong>; JCR Q1; IF: 26.8).
+- Hongyu Chen, <strong><u>Yanhao Luo</strong></u>, et al. Humanoid machine intelligence using bioinspired exteroceptive adaptive learning. <strong><em>Science Robotics</strong></em>. (<strong>Submitted</strong>) (<strong>Second Author</strong>; JCR Q1; IF: 27.5).
+- Zijian Huang, Hongyu Chen, <strong><u>Yanhao Luo</strong></u>, et al. In-Device Topological Encoding for Intelligent Multimodal Interactions. <strong><em>Advanced Functional Materials</strong></em>, 2025. Doi: 10.1002/adfm.202515750. (<strong>Accepted</strong>) (<strong>Third Author</strong>; JCR Q1; IF: 19.0,).
+- Wansheng Lin, Huasen Wang, Ruize Wangyuan, <strong><u>Yanhao Luo</strong></u>, et al. Dielectrically Modified Polymer and Topologically Optimized Microstructure Enabling In-Sensor Decoupling for Multifunctional Human–Machine Interactions. <strong><em>Advanced Functional Materials</strong></em>, 2025, Doi: 10.1002/adfm.202505912. (<strong>Accepted</strong>) (<strong>Fourth Author</strong>; JCR Q1; IF: 19.0).
+- Shifan Yu, Zhenzhou Ji, Lei Liu, Zijian Huang, <strong><u>Yanhao Luo</strong></u>, et al. A Hyperconformal Dual-Modal Metaskin for Well-Defined and High-Precision Contextual Interactions. <strong><em>Nature Communications</strong></em>. (<strong>Accepted</strong>) (<strong>Fifth Author</strong>; JCR Q1; IF: 15.7)
 
 Patents
-- Xinqin Liao, <strong><u>Yanhao Luo<strong><u>, et al. Flexible Sensor Continuous Mass Production System and Method. Chinese Invention Patent. No.: CN118849484A. (<strong>Granted<strong>) (<strong>Second Author<strong>; Supervisor as First Author).
-- Xinqin Liao, Hongyu Chen, <strong><u>Yanhao Luo<strong><u>, et al. Fabric-Based Pressure Sensor and Preparation Method. Chinese Invention Patent. No.: CN120063542A. (<strong>Published<strong>) (<strong>Third author<strong>; Supervisor as First Author).
+- Xinqin Liao, <strong><u>Yanhao Luo</strong></u>, et al. Flexible Sensor Continuous Mass Production System and Method. Chinese Invention Patent. No.: CN118849484A. (<strong>Granted</strong>) (<strong>Second Author</strong>; Supervisor as First Author).
+- Xinqin Liao, Hongyu Chen, <strong><u>Yanhao Luo</strong></u>, et al. Fabric-Based Pressure Sensor and Preparation Method. Chinese Invention Patent. No.: CN120063542A. (<strong>Published</strong>) (<strong>Third author</strong>; Supervisor as First Author).
 
 
 Research Experience
@@ -68,19 +68,19 @@ Research Experience
 
 Highlight of Qualifications
 ------
-- Data Analysis & Visualization: Proficient in <strong>Origin<strong> and <strong>MATLAB<strong> for computation, data analysis, and modeling;
-- Skilled in <strong>Adobe Illustrator<strong>, <strong>Photoshop<strong>, and <strong>Premiere<strong> for professional graphics design, image editing, and video processing.
-- Programming & Development: Expert-level proficiency in <strong>Python, C#, and C++<strong> for model building, training, and UI design; Strong background in algorithm development and implementation.
-- Virtual Development: Experienced with <strong>Unity<strong> for 3D modeling, animation design, interface development, and HCI systems; Proficient in <strong>COMSOL<strong> for multiphysics simulations (e.g., mechanics); Familiar with <strong>3ds Max<strong> and <strong>SOLIDWORKS<strong> for efficient 3D modeling and engineering drafting.
-- Embedded System Development: Proficient in circuit design using <strong>Multisim, Proteus, Altium Designer, and JLCPCB EDA<strong>; experienced in <strong>Arduino<strong> hardware control and sensor programming; skilled in 32-bit microcontroller development using <strong>Keil<strong>.
-- Instrumentation: Proficient in fabricating various flexible tactile sensors and operating laboratory equipment including operating <strong>Scanning Electron Microscopes (SEM), optical microscopes, vacuum heat treatment furnaces, spin coaters, and spray-coating equipment<strong>.
-- Language Proficiency: <strong>IELTS 6.5 (6.0)<strong>.
+- Data Analysis & Visualization: Proficient in <strong>Origin</strong> and <strong>MATLAB</strong> for computation, data analysis, and modeling;
+- Skilled in <strong>Adobe Illustrator</strong>, <strong>Photoshop</strong>, and <strong>Premiere</strong> for professional graphics design, image editing, and video processing.
+- Programming & Development: Expert-level proficiency in <strong>Python, C#, and C++</strong> for model building, training, and UI design; Strong background in algorithm development and implementation.
+- Virtual Development: Experienced with <strong>Unity</strong> for 3D modeling, animation design, interface development, and HCI systems; Proficient in <strong>COMSOL</strong> for multiphysics simulations (e.g., mechanics); Familiar with <strong>3ds Max</strong> and <strong>SOLIDWORKS</strong> for efficient 3D modeling and engineering drafting.
+- Embedded System Development: Proficient in circuit design using <strong>Multisim, Proteus, Altium Designer, and JLCPCB EDA</strong>; experienced in <strong>Arduino</strong> hardware control and sensor programming; skilled in 32-bit microcontroller development using <strong>Keil</strong>.
+- Instrumentation: Proficient in fabricating various flexible tactile sensors and operating laboratory equipment including operating <strong>Scanning Electron Microscopes (SEM), optical microscopes, vacuum heat treatment furnaces, spin coaters, and spray-coating equipment</strong>.
+- Language Proficiency: <strong>IELTS 6.5 (6.0)</strong>.
 
 Awards
 ------
-- Merit Student, Xiamen University	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      2025
+- Merit Student, Xiamen University	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      2025
 - Merit Student, Zhengzhou University 2020
-- Second Prize Scholarship of Zhengzhou University  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	2020、2022
-- Third Prize Scholarship of Zhengzhou University  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	2021、2023
+- Second Prize Scholarship of Zhengzhou University  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	2020、2022
+- Third Prize Scholarship of Zhengzhou University  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	2021、2023
 - Second Prize (National Level) &nbsp;&nbsp;&nbsp;	Undergraduate Mathematical Contest in Modeling (CUMCM)  	&nbsp;&nbsp;&nbsp;Sep 2021
 - Honorable Mention   &nbsp;&nbsp;&nbsp;  	Mathematical Contest in Modeling (MCM/ICM), COMAP (USA)   &nbsp;&nbsp;&nbsp;   	2020、2022
