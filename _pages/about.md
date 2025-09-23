@@ -17,12 +17,14 @@ You can find my CV here:[Yanhao Luo's curreiculum Vitae](../assets/Luo Yanhao Re
 
 Education
 ======
-Xiamen University	                                                         Xiamen, Fujian, China
-Master of Physical Electronics	                                           Sep 2023 – Jun 2026
+Xiamen University	                                                         - Xiamen, Fujian, China
+
+Master of Physical Electronics	                                           - Sep 2023 – Jun 2026
 - GPA: 3.54/4.0.
 - Supervisor: Prof. Liao Xinqin; Research Focus: Flexible Tactile Sensor
 
-Zhengzhou University	                                                     Zhengzhou, Henan, China
+Zhengzhou University	                                                     - Zhengzhou, Henan, China
+
 Bachelor of Measurement & Control Technology and Instruments 	             Sep 2019 – Jun 2023
 - GPA: 3.46/4.0.
 - Main Courses: Digital Electronics (98), Circuit Analysis (89), Analog Electronics (88), Microcontroller Principles (85), Object-Oriented Programming (95), Digital Image Processing (87), MATLAB & Mathematical Modeling (96), Automatic Control Theory (90), Digital Signal Processing (88), etc.
