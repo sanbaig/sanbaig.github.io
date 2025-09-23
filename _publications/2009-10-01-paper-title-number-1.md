@@ -2,7 +2,7 @@
 title: "A Programmable Electronic Skin with Event-Driven In-Sensor Touch Differential and Decision-Making"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-06-08-paper-title-number-5
+permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'Zhicheng Cao, Yijing Xu, Shifan Yu, Zijian Huang, Yu Hu, Wansheng Lin, Huasen Wang, <strong><u>Yanhao Luo</u></strong>, Yuanjin Zheng, Zhong Chen\*, Qingliang Liao, Xinqin Liao\*'
 date: 2025-07-10
 venue: 'Advanced Functional Materials'
