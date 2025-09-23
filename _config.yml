@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Luoprofile.png"
   name             : "Yanhao Luo"
   pronouns         : #"he/his"  
   bio              : "Hello, my name is Yanhao Luo, a master’s student in Physical Electronics at Xiamen University, focusing on flexible tactile sensors."
