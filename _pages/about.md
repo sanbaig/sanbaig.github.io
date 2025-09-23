@@ -17,15 +17,15 @@ You can find my CV here:[Yanhao Luo's curreiculum Vitae](../assets/Luo Yanhao Re
 
 Education
 ------
-Xiamen University    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Xiamen, Fujian, China
+Xiamen University    <p style="text-align:right;">Xiamen, Fujian, China</p>    
 
-Master of Physical Electronics	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Sep 2023 – Jun 2026
+Master of Physical Electronics	<p style="text-align:right;">Sep 2023 – Jun 2026</p>   
 - GPA: 3.54/4.0.
 - Supervisor: Prof. Liao Xinqin
 
-Zhengzhou University	 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Zhengzhou, Henan, China
+Zhengzhou University	 <p style="text-align:right;">Zhengzhou, Henan, China</p>    
 
-Bachelor of Measurement & Control Technology and Instruments 	  &nbsp;&nbsp;&nbsp;&nbsp;   Sep 2019 – Jun 2023
+Bachelor of Measurement & Control Technology and Instruments 	  <p style="text-align:right;"> Sep 2019 – Jun 2023</p>     
 - GPA: 3.46/4.0.
 - Main Courses: Digital Electronics (98), Circuit Analysis (89), Analog Electronics (88), Microcontroller Principles (85), Object-Oriented Programming (95), Digital Image Processing (87), MATLAB & Mathematical Modeling (96), Automatic Control Theory (90), Digital Signal Processing (88), etc.
 
@@ -78,9 +78,9 @@ Highlight of Qualifications
 
 Awards
 ------
-- Merit Student, Xiamen University	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      2025
-- Merit Student, Zhengzhou University 2020
-- Second Prize Scholarship of Zhengzhou University  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	2020、2022
-- Third Prize Scholarship of Zhengzhou University  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	2021、2023
-- Second Prize (National Level) &nbsp;&nbsp;&nbsp;	Undergraduate Mathematical Contest in Modeling (CUMCM)  	&nbsp;&nbsp;&nbsp;Sep 2021
-- Honorable Mention   &nbsp;&nbsp;&nbsp;  	Mathematical Contest in Modeling (MCM/ICM), COMAP (USA)   &nbsp;&nbsp;&nbsp;   	2020、2022
+- Merit Student, Xiamen University	<p style="text-align:right;">2025</p>     
+- Merit Student, Zhengzhou University <p style="text-align:right;">2020</p>
+- Second Prize Scholarship of Zhengzhou University  <p style="text-align:right;">2020、2022</p>
+- Third Prize Scholarship of Zhengzhou University  <p style="text-align:right;">2021、2023</p>
+- Second Prize (National Level) &nbsp;&nbsp;&nbsp;	Undergraduate Mathematical Contest in Modeling (CUMCM)  	<p style="text-align:right;">Sep 2021</p>
+- Honorable Mention   &nbsp;&nbsp;&nbsp;  	Mathematical Contest in Modeling (MCM/ICM), COMAP (USA)   &nbsp;&nbsp;&nbsp;   	<p style="text-align:right;">2020、2022</p>
