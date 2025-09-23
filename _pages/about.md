@@ -33,15 +33,15 @@ Bachelor of Measurement & Control Technology and Instruments 	  &nbsp;&nbsp;&nbs
 Publications
 ------
 Papers
-- <strong><u>Yanhao Luo</strong></u>, et al. High-throughput fabrication of integrated tactile device with in-sensor analysis. <strong><em>Advanced Materials</strong></u>. (<strong>Submitted</strong>) (<strong>First Author</strong>; JCR Q1; IF: 26.8).
-- Hongyu Chen, <strong><u>Yanhao Luo</strong></u>, et al. Humanoid machine intelligence using bioinspired exteroceptive adaptive learning. <strong><em>Science Robotics</strong></em>. (<strong>Submitted</strong>) (<strong>Second Author</strong>; JCR Q1; IF: 27.5).
-- Zijian Huang, Hongyu Chen, <strong><u>Yanhao Luo</strong></u>, et al. In-Device Topological Encoding for Intelligent Multimodal Interactions. <strong><em>Advanced Functional Materials</strong></em>, 2025. Doi: 10.1002/adfm.202515750. (<strong>Accepted</strong>) (<strong>Third Author</strong>; JCR Q1; IF: 19.0,).
-- Wansheng Lin, Huasen Wang, Ruize Wangyuan, <strong><u>Yanhao Luo</strong></u>, et al. Dielectrically Modified Polymer and Topologically Optimized Microstructure Enabling In-Sensor Decoupling for Multifunctional Human–Machine Interactions. <strong><em>Advanced Functional Materials</strong></em>, 2025, Doi: 10.1002/adfm.202505912. (<strong>Accepted</strong>) (<strong>Fourth Author</strong>; JCR Q1; IF: 19.0).
-- Shifan Yu, Zhenzhou Ji, Lei Liu, Zijian Huang, <strong><u>Yanhao Luo</strong></u>, et al. A Hyperconformal Dual-Modal Metaskin for Well-Defined and High-Precision Contextual Interactions. <strong><em>Nature Communications</strong></em>. (<strong>Accepted</strong>) (<strong>Fifth Author</strong>; JCR Q1; IF: 15.7)
+- <strong><u>Yanhao Luo</u></strong>, et al. High-throughput fabrication of integrated tactile device with in-sensor analysis. <strong><em>Advanced Materials</em></strong>. (<strong>Submitted</strong>) (<strong>First Author</strong>; JCR Q1; IF: 26.8).
+- Hongyu Chen, <strong><u>Yanhao Luo</u></strong>, et al. Humanoid machine intelligence using bioinspired exteroceptive adaptive learning. <strong><em>Science Robotics</em></strong>. (<strong>Submitted</strong>) (<strong>Second Author</strong>; JCR Q1; IF: 27.5).
+- Zijian Huang, Hongyu Chen, <strong><u>Yanhao Luo</u></strong>, et al. In-Device Topological Encoding for Intelligent Multimodal Interactions. <strong><em>Advanced Functional Materials</em></strong>, 2025. Doi: 10.1002/adfm.202515750. (<strong>Accepted</strong>) (<strong>Third Author</strong>; JCR Q1; IF: 19.0,).
+- Wansheng Lin, Huasen Wang, Ruize Wangyuan, <strong><u>Yanhao Luo</u></strong>, et al. Dielectrically Modified Polymer and Topologically Optimized Microstructure Enabling In-Sensor Decoupling for Multifunctional Human–Machine Interactions. <strong><em>Advanced Functional Materials</em></strong>, 2025, Doi: 10.1002/adfm.202505912. (<strong>Accepted</strong>) (<strong>Fourth Author</strong>; JCR Q1; IF: 19.0).
+- Shifan Yu, Zhenzhou Ji, Lei Liu, Zijian Huang, <strong><u>Yanhao Luo</u></strong>, et al. A Hyperconformal Dual-Modal Metaskin for Well-Defined and High-Precision Contextual Interactions. <strong><em>Nature Communications</em></strong>. (<strong>Accepted</strong>) (<strong>Fifth Author</strong>; JCR Q1; IF: 15.7)
 
 Patents
-- Xinqin Liao, <strong><u>Yanhao Luo</strong></u>, et al. Flexible Sensor Continuous Mass Production System and Method. Chinese Invention Patent. No.: CN118849484A. (<strong>Granted</strong>) (<strong>Second Author</strong>; Supervisor as First Author).
-- Xinqin Liao, Hongyu Chen, <strong><u>Yanhao Luo</strong></u>, et al. Fabric-Based Pressure Sensor and Preparation Method. Chinese Invention Patent. No.: CN120063542A. (<strong>Published</strong>) (<strong>Third author</strong>; Supervisor as First Author).
+- Xinqin Liao, <strong><u>Yanhao Luo</u></strong>, et al. Flexible Sensor Continuous Mass Production System and Method. Chinese Invention Patent. No.: CN118849484A. (<strong>Granted</strong>) (<strong>Second Author</strong>; Supervisor as First Author).
+- Xinqin Liao, Hongyu Chen, <strong><u>Yanhao Luo</u></strong>, et al. Fabric-Based Pressure Sensor and Preparation Method. Chinese Invention Patent. No.: CN120063542A. (<strong>Published</strong>) (<strong>Third author</strong>; Supervisor as First Author).
 
 
 Research Experience
