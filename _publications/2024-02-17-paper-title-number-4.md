@@ -2,7 +2,7 @@
 title: "Dielectrically Modified Polymer and Topologically Optimized Microstructure Enabling In-Sensor Decoupling for Multifunctional Human–Machine Interactions"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-06-08-paper-title-number-5
+permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'Wansheng Lin, Huasen Wang, Ruize Wangyuan, <strong><u>Yanhao Luo</u></strong>, Guolong Chen, Shifan Yu, Lei Liu, Zijian Huang, Yuchen Lin, Ziquan Guo, Yuanjin Zheng, Zhong Chen, Xinqin Liao\*'
 date: 2025-05-16
 venue: 'Advanced Functional Materials'
