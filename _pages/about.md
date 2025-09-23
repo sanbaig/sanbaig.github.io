@@ -16,54 +16,71 @@ You can find my CV here:[Yanhao Luo's curreiculum Vitae](../assets/Luo Yanhao Re
  [Email](luoyanhao@stu.xmu.edu.cn)
 
 Education
-======
-Xiamen University    &nbsp;&nbsp;&nbsp;    Xiamen, Fujian, China
+------
+Xiamen University    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Xiamen, Fujian, China
 
-Master of Physical Electronics	&nbsp;&nbsp;&nbsp; Sep 2023 – Jun 2026
+Master of Physical Electronics	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Sep 2023 – Jun 2026
 - GPA: 3.54/4.0.
-- Supervisor: Prof. Liao Xinqin; Research Focus: Flexible Tactile Sensor
+- Supervisor: Prof. Liao Xinqin
 
-Zhengzhou University	 &nbsp;&nbsp;&nbsp; Zhengzhou, Henan, China
+Zhengzhou University	 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Zhengzhou, Henan, China
 
-Bachelor of Measurement & Control Technology and Instruments 	  &nbsp;&nbsp;&nbsp;   Sep 2019 – Jun 2023
+Bachelor of Measurement & Control Technology and Instruments 	  &nbsp;&nbsp;&nbsp;&nbsp;   Sep 2019 – Jun 2023
 - GPA: 3.46/4.0.
 - Main Courses: Digital Electronics (98), Circuit Analysis (89), Analog Electronics (88), Microcontroller Principles (85), Object-Oriented Programming (95), Digital Image Processing (87), MATLAB & Mathematical Modeling (96), Automatic Control Theory (90), Digital Signal Processing (88), etc.
 
 
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
-
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
-Site-wide configuration
+Publications
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+Papers
+- <strong><u>Yanhao Luo<strong><u>, et al. High-throughput fabrication of integrated tactile device with in-sensor analysis. <strong><em>Advanced Materials<strong><em>. (<strong>Submitted<strong>) (<strong>First Author<strong>; JCR Q1; IF: 26.8).
+- Hongyu Chen, <strong><u>Yanhao Luo<strong><u>, et al. Humanoid machine intelligence using bioinspired exteroceptive adaptive learning. <strong><em>Science Robotics<strong><em>. (<strong>Submitted<strong>) (<strong>Second Author<strong>; JCR Q1; IF: 27.5).
+- Zijian Huang, Hongyu Chen, <strong><u>Yanhao Luo<strong><u>, et al. In-Device Topological Encoding for Intelligent Multimodal Interactions. <strong><em>Advanced Functional Materials<strong><em>, 2025. Doi: 10.1002/adfm.202515750. (<strong>Accepted<strong>) (<strong>Third Author<strong>; JCR Q1; IF: 19.0,).
+- Wansheng Lin, Huasen Wang, Ruize Wangyuan, <strong><u>Yanhao Luo<strong><u>, et al. Dielectrically Modified Polymer and Topologically Optimized Microstructure Enabling In-Sensor Decoupling for Multifunctional Human–Machine Interactions. <strong><em>Advanced Functional Materials<strong><em>, 2025, Doi: 10.1002/adfm.202505912. (<strong>Accepted<strong>) (<strong>Fourth Author<strong>; JCR Q1; IF: 19.0).
+- Shifan Yu, Zhenzhou Ji, Lei Liu, Zijian Huang, <strong><u>Yanhao Luo<strong><u>, et al. A Hyperconformal Dual-Modal Metaskin for Well-Defined and High-Precision Contextual Interactions. <strong><em>Nature Communications<strong><em>. (<strong>Accepted<strong>) (<strong>Fifth Author<strong>; JCR Q1; IF: 15.7)
 
-Create content & metadata
+Patents
+- Xinqin Liao, <strong><u>Yanhao Luo<strong><u>, et al. Flexible Sensor Continuous Mass Production System and Method. Chinese Invention Patent. No.: CN118849484A. (<strong>Granted<strong>) (<strong>Second Author<strong>; Supervisor as First Author).
+- Xinqin Liao, Hongyu Chen, <strong><u>Yanhao Luo<strong><u>, et al. Fabric-Based Pressure Sensor and Preparation Method. Chinese Invention Patent. No.: CN120063542A. (<strong>Published<strong>) (<strong>Third author<strong>; Supervisor as First Author).
+
+
+Research Experience
 ------
-For site content, there is one Markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a Markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each Markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+**Modular Tactile Sensors for Cut-and-Paste Interaction** (Corresponding to Paper 1)	
+- Developed a spray-heating continuous high-throughput fabrication system; optimized deposition via COMSOL to achieve uniform conductive film coatings and stable large-scale sensor production.
+- Designed an ultrathin, symmetric double-layer sensor enabling cut-and-paste Interaction, whose stable and consistent fabrication allows replacement without calibration.
+- Developed multiple interactive systems by integrating JLCEDA-designed PCBs and Unity interaction scenes, forming a complete tactile sensing and real-time feedback platform.
 
-**Markdown generator**
+**Visual-Tactile Cross-Modal Fusion Systems** (Corresponding to Paper 2)	
+- Built a vision–tactile fusion piano system powered by YOLOv5, enabling autonomous score reading, robotic performance, and volume control.
+- Designed a vision–tactile fusion system integrating YOLOv5 visual features and 1D CNN tactile signals, optimizing recognition performance for visually similar objects with improved accuracy and robustness.
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual Markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the Markdown files, then commit and push them to the GitHub repository.
+**Multimodal Sensing Technology Based on Signal Linear Encoding** (Corresponding to Paper 3)	
+- Designed a tactile interaction system capable of detecting both touch position and pressure, enabling real-time 3D model control in Unity without the need for cameras or complex wiring.
 
-How to edit your site's GitHub repository
+**Composite Structures for Distance Detection in Tactile Sensors** (Corresponding to Paper 4)	
+- Built an embodied sensing network integrated with Unity classroom scene to enable diverse virtual interactions, and designed a proximity-based contactless presentation control system.
+- Completed PCB design and embedded development, and created a closed haptic loop by integrating a Unity-based combat scene with thermal feedback that delivers heat sensations upon character hits.
+
+**Dual-Modal Skin: Enabling High-Precision Contextual Interactions** (Corresponding to Paper 5)	
+- Developed a wearable sensing system integrated with a Unity object-grabbing scene, where motion type and signal amplitude were used to control grabbing direction and distance with precision.
+
+
+Highlight of Qualifications
 ------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and Markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+- Data Analysis & Visualization: Proficient in <strong>Origin<strong> and <strong>MATLAB<strong> for computation, data analysis, and modeling;
+- Skilled in <strong>Adobe Illustrator<strong>, <strong>Photoshop<strong>, and <strong>Premiere<strong> for professional graphics design, image editing, and video processing.
+- Programming & Development: Expert-level proficiency in <strong>Python, C#, and C++<strong> for model building, training, and UI design; Strong background in algorithm development and implementation.
+- Virtual Development: Experienced with <strong>Unity<strong> for 3D modeling, animation design, interface development, and HCI systems; Proficient in <strong>COMSOL<strong> for multiphysics simulations (e.g., mechanics); Familiar with <strong>3ds Max<strong> and <strong>SOLIDWORKS<strong> for efficient 3D modeling and engineering drafting.
+- Embedded System Development: Proficient in circuit design using <strong>Multisim, Proteus, Altium Designer, and JLCPCB EDA<strong>; experienced in <strong>Arduino<strong> hardware control and sensor programming; skilled in 32-bit microcontroller development using <strong>Keil<strong>.
+- Instrumentation: Proficient in fabricating various flexible tactile sensors and operating laboratory equipment including operating <strong>Scanning Electron Microscopes (SEM), optical microscopes, vacuum heat treatment furnaces, spin coaters, and spray-coating equipment<strong>.
+- Language Proficiency: <strong>IELTS 6.5 (6.0)<strong>.
 
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
-
-For more info
+Awards
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+- Merit Student, Xiamen University	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      2025
+- Merit Student, Zhengzhou University 2020
+- Second Prize Scholarship of Zhengzhou University  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	2020、2022
+- Third Prize Scholarship of Zhengzhou University  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	2021、2023
+- Second Prize (National Level) &nbsp;&nbsp;&nbsp;	Undergraduate Mathematical Contest in Modeling (CUMCM)  	&nbsp;&nbsp;&nbsp;Sep 2021
+- Honorable Mention   &nbsp;&nbsp;&nbsp;  	Mathematical Contest in Modeling (MCM/ICM), COMAP (USA)   &nbsp;&nbsp;&nbsp;   	2020、2022
