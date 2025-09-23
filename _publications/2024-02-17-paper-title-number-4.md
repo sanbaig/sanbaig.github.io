@@ -3,7 +3,7 @@ title: "Dielectrically Modified Polymer and Topologically Optimized Microstructu
 collection: publications
 category: manuscripts
 permalink: /publication/2025-06-08-paper-title-number-5
-excerpt: 'Wansheng Lin, Huasen Wang, Ruize Wangyuan, Yanhao Luo, Guolong Chen, Shifan Yu, Lei Liu, Zijian Huang, Yuchen Lin, Ziquan Guo, Yuanjin Zheng, Zhong Chen, Xinqin Liao\*'
+excerpt: 'Wansheng Lin, Huasen Wang, Ruize Wangyuan, <strong><u>Yanhao Luo</u></strong>, Guolong Chen, Shifan Yu, Lei Liu, Zijian Huang, Yuchen Lin, Ziquan Guo, Yuanjin Zheng, Zhong Chen, Xinqin Liao\*'
 date: 2025-05-16
 venue: 'Advanced Functional Materials'
 #paperurl: 'http://academicpages.github.io/files/paper3.pdf'
