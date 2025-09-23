@@ -2,7 +2,7 @@
 title: "Octopus Tentacle-Inspired In-Sensor Adaptive Integral for Edge-Intelligent Touch Intention Recognition"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-06-08-paper-title-number-5
+permalink: /publication/2020-10-01-paper-title-number-5
 excerpt: 'Chao Wei, Shifan Yu, Yifan Meng, Yijing Xu, Yu Hu, Zhicheng Cao, Zijian Huang, Lei Liu, <strong><u>Yanhao Luo</u></strong>, Hongyu Chen, Zhong Chen, Zeliang Zhang, Liang Wang, Zhenyu Zhao, Yuanjin Zheng, Qingliang Liao, Xinqin Liao\*'
 date: 2025-07-10
 venue: 'Advanced Functional Materials'
