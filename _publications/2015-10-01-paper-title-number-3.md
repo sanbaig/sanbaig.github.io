@@ -2,7 +2,7 @@
 title: "A Hyperconformal Dual-Modal Metaskin for Well-Defined and High-Precision Contextual Interactions"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-06-08-paper-title-number-5
+permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'Shifan Yu, Zhenzhou Ji, Lei Liu, Zijian Huang, <strong><u>Yanhao Luo</u></strong>, Huasen Wang, Ruize Wangyuan, Ziquan Guo, Zhong Chen, Qingliang Liao, Yuanjin Zheng, Xinqin Liao\*'
 date: Accepted
 venue: 'Nature Communications'
