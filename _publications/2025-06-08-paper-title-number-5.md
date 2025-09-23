@@ -3,7 +3,7 @@ title: "In-Device Topological Encoding for Intelligent Multimodal Interactions"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-06-08-paper-title-number-5
-excerpt: 'Zijian Huang, Hongyu Chen, <strong><u>Yanhao Luo</u></strong>, Xiang Xiao, Shifan Yu, Lei Liu, Yu Hu, Huasen Wang, Wansheng Lin, Jianghui Zheng, Ziquan Guo, Runsheng Gao, Huali Yang, Xiaojian Zhu, Qingliang Liao, Yuanjin Zheng, Zhong Chen*, Xinqin Liao*'
+excerpt: 'Zijian Huang, Hongyu Chen, <strong><u>Yanhao Luo</u></strong>, Xiang Xiao, Shifan Yu, Lei Liu, Yu Hu, Huasen Wang, Wansheng Lin, Jianghui Zheng, Ziquan Guo, Runsheng Gao, Huali Yang, Xiaojian Zhu, Qingliang Liao, Yuanjin Zheng, Zhong Chen\*, Xinqin Liao\*'
 date: 2025-08-21
 venue: 'Advanced Functional Materials'
 #paperurl: 'http://academicpages.github.io/files/paper3.pdf'
