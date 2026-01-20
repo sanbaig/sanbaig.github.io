@@ -11,7 +11,7 @@ I'm a master's student in Physical Electronics at Xiamen University, advised by 
 My research interests include Wearable devices, Flexible sensors, Human–machine/computer interaction, and Multimodal sensing systems.
 I have published as first or co-author in Nature Communications, Advanced Materials, and Advanced Functional Materials, and hold patents.
 
-You can find my CV here:[Yanhao Luo's curreiculum Vitae](../assets/Luo Yanhao Resume-0923.pdf).
+You can find my CV here:[Yanhao Luo's curreiculum Vitae](../assets/Luo Yanhao CV.pdf).
 
  [Email](luoyanhao@stu.xmu.edu.cn)
 
