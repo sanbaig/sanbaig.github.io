@@ -45,8 +45,8 @@ Education
 Publications
 ------
 Papers
-- <strong><u>Yanhao Luo</u></strong>, et al. High-throughput fabrication of integrated tactile device with in-sensor analysis. <strong><em>Advanced Materials</em></strong>. (<strong>Submitted</strong>) (<strong>First Author</strong>; JCR Q1; IF: 26.8).
-- Hongyu Chen, <strong><u>Yanhao Luo</u></strong>, et al. Humanoid machine intelligence using bioinspired exteroceptive adaptive learning. <strong><em>Science Robotics</em></strong>. (<strong>Submitted</strong>) (<strong>Second Author</strong>; JCR Q1; IF: 27.5).
+- <strong><u>Yanhao Luo</u></strong>, et al. In-Sensor Computing Tactile Devices for Well-Defined Confined Space Interactions. <strong><em>ACS Nano</em></strong>. (<strong>Minor Revision</strong>) (<strong>First Author</strong>; JCR Q1; IF: 16.1).
+- Hongyu Chen, Zijian Huang, <strong><u>Yanhao Luo</u></strong>, et al. Bioinspired Cross-Modal Self-Adaptive Machine Intelligence for Event-Driven and Ultrahigh-Precision Underwater Grasping. <strong><em>Advanced Materials</em></strong>. (<strong>Submitted</strong>) (<strong>Second Author</strong>; JCR Q1; IF: 26.8).
 - Zijian Huang, Hongyu Chen, <strong><u>Yanhao Luo</u></strong>, et al. In-Device Topological Encoding for Intelligent Multimodal Interactions. <strong><em>Advanced Functional Materials</em></strong>, 2025. Doi: 10.1002/adfm.202515750. (<strong>Accepted</strong>) (<strong>Third Author</strong>; JCR Q1; IF: 19.0,).
 - Wansheng Lin, Huasen Wang, Ruize Wangyuan, <strong><u>Yanhao Luo</u></strong>, et al. Dielectrically Modified Polymer and Topologically Optimized Microstructure Enabling In-Sensor Decoupling for Multifunctional Human–Machine Interactions. <strong><em>Advanced Functional Materials</em></strong>, 2025, Doi: 10.1002/adfm.202505912. (<strong>Accepted</strong>) (<strong>Fourth Author</strong>; JCR Q1; IF: 19.0).
 - Shifan Yu, Zhenzhou Ji, Lei Liu, Zijian Huang, <strong><u>Yanhao Luo</u></strong>, et al. A Hyperconformal Dual-Modal Metaskin for Well-Defined and High-Precision Contextual Interactions. <strong><em>Nature Communications</em></strong>. (<strong>Accepted</strong>) (<strong>Fifth Author</strong>; JCR Q1; IF: 15.7)
@@ -59,9 +59,9 @@ Patents
 Research Experience
 ------
 **Modular Tactile Sensors for Cut-and-Paste Interaction** (Corresponding to Paper 1)	
-- Developed a spray-heating continuous high-throughput fabrication system; optimized deposition via COMSOL to achieve uniform conductive film coatings and stable large-scale sensor production.
+- Developed a spray-heating continuous high-throughput fabrication system; optimized deposition through COMSOL to achieve uniform conductive film coatings and stable large-scale sensor production.
 - Designed an ultrathin, symmetric double-layer sensor enabling cut-and-paste Interaction, whose stable and consistent fabrication allows replacement without calibration.
-- Developed multiple interactive systems by integrating JLCEDA-designed PCBs and Unity interaction scenes, forming a complete tactile sensing and real-time feedback platform.
+- Developed multiple interactive systems, including smart hat, bottle and bracelet, by integrating designed PCBs and Unity interaction scenes, forming a complete tactile sensing and real-time feedback platform.
 
 **Visual-Tactile Cross-Modal Fusion Systems** (Corresponding to Paper 2)	
 - Built a vision–tactile fusion piano system powered by YOLOv5, enabling autonomous score reading, robotic performance, and volume control.
